@@ -1,0 +1,17 @@
+D:\ProgramLabs\1labavarik14\1labavarik14\bin\Debug\net7.0-windows\1labavarik14.exe
+D:\ProgramLabs\1labavarik14\1labavarik14\bin\Debug\net7.0-windows\1labavarik14.deps.json
+D:\ProgramLabs\1labavarik14\1labavarik14\bin\Debug\net7.0-windows\1labavarik14.runtimeconfig.json
+D:\ProgramLabs\1labavarik14\1labavarik14\bin\Debug\net7.0-windows\1labavarik14.dll
+D:\ProgramLabs\1labavarik14\1labavarik14\bin\Debug\net7.0-windows\1labavarik14.pdb
+D:\ProgramLabs\1labavarik14\1labavarik14\obj\Debug\net7.0-windows\_1labavarik14.Form1.resources
+D:\ProgramLabs\1labavarik14\1labavarik14\obj\Debug\net7.0-windows\_1labavarik14.Properties.Resources.resources
+D:\ProgramLabs\1labavarik14\1labavarik14\obj\Debug\net7.0-windows\1labavarik14.csproj.GenerateResource.cache
+D:\ProgramLabs\1labavarik14\1labavarik14\obj\Debug\net7.0-windows\1labavarik14.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramLabs\1labavarik14\1labavarik14\obj\Debug\net7.0-windows\1labavarik14.AssemblyInfoInputs.cache
+D:\ProgramLabs\1labavarik14\1labavarik14\obj\Debug\net7.0-windows\1labavarik14.AssemblyInfo.cs
+D:\ProgramLabs\1labavarik14\1labavarik14\obj\Debug\net7.0-windows\1labavarik14.csproj.CoreCompileInputs.cache
+D:\ProgramLabs\1labavarik14\1labavarik14\obj\Debug\net7.0-windows\1labavarik14.dll
+D:\ProgramLabs\1labavarik14\1labavarik14\obj\Debug\net7.0-windows\refint\1labavarik14.dll
+D:\ProgramLabs\1labavarik14\1labavarik14\obj\Debug\net7.0-windows\1labavarik14.pdb
+D:\ProgramLabs\1labavarik14\1labavarik14\obj\Debug\net7.0-windows\1labavarik14.genruntimeconfig.cache
+D:\ProgramLabs\1labavarik14\1labavarik14\obj\Debug\net7.0-windows\ref\1labavarik14.dll
