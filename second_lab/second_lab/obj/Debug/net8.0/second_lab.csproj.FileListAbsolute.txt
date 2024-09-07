@@ -1,0 +1,15 @@
+/Users/PC10/nuwm_prog/second_lab/second_lab/bin/Debug/net8.0/second_lab
+/Users/PC10/nuwm_prog/second_lab/second_lab/bin/Debug/net8.0/second_lab.deps.json
+/Users/PC10/nuwm_prog/second_lab/second_lab/bin/Debug/net8.0/second_lab.runtimeconfig.json
+/Users/PC10/nuwm_prog/second_lab/second_lab/bin/Debug/net8.0/second_lab.dll
+/Users/PC10/nuwm_prog/second_lab/second_lab/bin/Debug/net8.0/second_lab.pdb
+/Users/PC10/nuwm_prog/second_lab/second_lab/obj/Debug/net8.0/second_lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/PC10/nuwm_prog/second_lab/second_lab/obj/Debug/net8.0/second_lab.AssemblyInfoInputs.cache
+/Users/PC10/nuwm_prog/second_lab/second_lab/obj/Debug/net8.0/second_lab.AssemblyInfo.cs
+/Users/PC10/nuwm_prog/second_lab/second_lab/obj/Debug/net8.0/second_lab.csproj.CoreCompileInputs.cache
+/Users/PC10/nuwm_prog/second_lab/second_lab/obj/Debug/net8.0/second_lab.sourcelink.json
+/Users/PC10/nuwm_prog/second_lab/second_lab/obj/Debug/net8.0/second_lab.dll
+/Users/PC10/nuwm_prog/second_lab/second_lab/obj/Debug/net8.0/refint/second_lab.dll
+/Users/PC10/nuwm_prog/second_lab/second_lab/obj/Debug/net8.0/second_lab.pdb
+/Users/PC10/nuwm_prog/second_lab/second_lab/obj/Debug/net8.0/second_lab.genruntimeconfig.cache
+/Users/PC10/nuwm_prog/second_lab/second_lab/obj/Debug/net8.0/ref/second_lab.dll
