@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/PC10/nuwm_prog/fourth_lab/fourth_lab/fourth_lab.csproj": {}
+    "/Users/PC10/nuwee/nuwm_prog/fourth_lab/fourth_lab/fourth_lab.csproj": {}
   },
   "projects": {
-    "/Users/PC10/nuwm_prog/fourth_lab/fourth_lab/fourth_lab.csproj": {
+    "/Users/PC10/nuwee/nuwm_prog/fourth_lab/fourth_lab/fourth_lab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/PC10/nuwm_prog/fourth_lab/fourth_lab/fourth_lab.csproj",
+        "projectUniqueName": "/Users/PC10/nuwee/nuwm_prog/fourth_lab/fourth_lab/fourth_lab.csproj",
         "projectName": "fourth_lab",
-        "projectPath": "/Users/PC10/nuwm_prog/fourth_lab/fourth_lab/fourth_lab.csproj",
+        "projectPath": "/Users/PC10/nuwee/nuwm_prog/fourth_lab/fourth_lab/fourth_lab.csproj",
         "packagesPath": "/Users/PC10/.nuget/packages/",
-        "outputPath": "/Users/PC10/nuwm_prog/fourth_lab/fourth_lab/obj/",
+        "outputPath": "/Users/PC10/nuwee/nuwm_prog/fourth_lab/fourth_lab/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/PC10/.nuget/NuGet/NuGet.Config"

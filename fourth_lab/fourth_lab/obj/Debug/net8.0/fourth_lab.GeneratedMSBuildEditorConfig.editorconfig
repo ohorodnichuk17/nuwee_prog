@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = fourth_lab
-build_property.ProjectDir = /Users/PC10/nuwm_prog/fourth_lab/fourth_lab/
+build_property.ProjectDir = /Users/PC10/nuwee/nuwm_prog/fourth_lab/fourth_lab/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
