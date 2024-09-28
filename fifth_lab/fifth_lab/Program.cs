@@ -1,4 +1,6 @@
-﻿class Program
+﻿namespace fifth_lab;
+
+class Program
 {
     static void Main()
     {
