@@ -1,0 +1,15 @@
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/bin/Debug/net8.0/eights_lab
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/bin/Debug/net8.0/eights_lab.deps.json
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/bin/Debug/net8.0/eights_lab.runtimeconfig.json
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/bin/Debug/net8.0/eights_lab.dll
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/bin/Debug/net8.0/eights_lab.pdb
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/obj/Debug/net8.0/eights_lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/obj/Debug/net8.0/eights_lab.AssemblyInfoInputs.cache
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/obj/Debug/net8.0/eights_lab.AssemblyInfo.cs
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/obj/Debug/net8.0/eights_lab.csproj.CoreCompileInputs.cache
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/obj/Debug/net8.0/eights_lab.sourcelink.json
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/obj/Debug/net8.0/eights_lab.dll
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/obj/Debug/net8.0/refint/eights_lab.dll
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/obj/Debug/net8.0/eights_lab.pdb
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/obj/Debug/net8.0/eights_lab.genruntimeconfig.cache
+/Users/PC10/nuwee/nuwm_prog/eights_lab/eights_lab/obj/Debug/net8.0/ref/eights_lab.dll
