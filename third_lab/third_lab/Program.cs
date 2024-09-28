@@ -1,22 +1,16 @@
 ﻿namespace third_lab;
-
 class Program
 {
     static int CountValidPoints(Point[] points)
     {
         int validCount = 0;
-
         foreach (var point in points)
         {
             if (point.AreCoordinatesIntegers() && point.IsInFirstOctant())
-            {
                 validCount++;
-            }
         }
-
         return validCount;
     }
-
     static void Main(string[] args)
     {
         var points = new Point[]
