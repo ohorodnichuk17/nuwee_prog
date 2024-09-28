@@ -1,0 +1,16 @@
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\bin\Debug\net7.0-windows\seventh_lab.exe
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\bin\Debug\net7.0-windows\seventh_lab.deps.json
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\bin\Debug\net7.0-windows\seventh_lab.runtimeconfig.json
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\bin\Debug\net7.0-windows\seventh_lab.dll
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\bin\Debug\net7.0-windows\seventh_lab.pdb
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\obj\Debug\net7.0-windows\seventh_lab.Form1.resources
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\obj\Debug\net7.0-windows\seventh_lab.csproj.GenerateResource.cache
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\obj\Debug\net7.0-windows\seventh_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\obj\Debug\net7.0-windows\seventh_lab.AssemblyInfoInputs.cache
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\obj\Debug\net7.0-windows\seventh_lab.AssemblyInfo.cs
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\obj\Debug\net7.0-windows\seventh_lab.csproj.CoreCompileInputs.cache
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\obj\Debug\net7.0-windows\seventh_lab.dll
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\obj\Debug\net7.0-windows\refint\seventh_lab.dll
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\obj\Debug\net7.0-windows\seventh_lab.pdb
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\obj\Debug\net7.0-windows\seventh_lab.genruntimeconfig.cache
+C:\Users\1onei\source\repos\seventh_lab\seventh_lab\obj\Debug\net7.0-windows\ref\seventh_lab.dll
