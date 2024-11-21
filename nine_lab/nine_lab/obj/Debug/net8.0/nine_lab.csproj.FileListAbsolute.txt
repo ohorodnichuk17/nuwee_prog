@@ -1,0 +1,15 @@
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/bin/Debug/net8.0/nine_lab
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/bin/Debug/net8.0/nine_lab.deps.json
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/bin/Debug/net8.0/nine_lab.runtimeconfig.json
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/bin/Debug/net8.0/nine_lab.dll
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/bin/Debug/net8.0/nine_lab.pdb
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/obj/Debug/net8.0/nine_lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/obj/Debug/net8.0/nine_lab.AssemblyInfoInputs.cache
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/obj/Debug/net8.0/nine_lab.AssemblyInfo.cs
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/obj/Debug/net8.0/nine_lab.csproj.CoreCompileInputs.cache
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/obj/Debug/net8.0/nine_lab.sourcelink.json
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/obj/Debug/net8.0/nine_lab.dll
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/obj/Debug/net8.0/refint/nine_lab.dll
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/obj/Debug/net8.0/nine_lab.pdb
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/obj/Debug/net8.0/nine_lab.genruntimeconfig.cache
+/Users/PC10/nuwee/nuwee_prog/nine_lab/nine_lab/obj/Debug/net8.0/ref/nine_lab.dll
